@@ -1,0 +1,6 @@
+{
+  "name": "Kuzola Mukucala - Molduras",
+  "description": "Adicione molduras personalizadas verticais e horizontais às suas fotos do Acampamento Kuzola Mukucala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
